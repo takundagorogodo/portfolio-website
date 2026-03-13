@@ -4,7 +4,7 @@ This is a responsive personal portfolio website built using **HTML, CSS, and Jav
 It showcases my skills, services, and professional profile with a modern UI and smooth interactions.
 
 ## Live Preview
-(Enable GitHub Pages to add the live link here)
+()
 
 ## Features
 - Responsive design for desktop and mobile devices
